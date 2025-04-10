@@ -6,8 +6,7 @@ Fullstack open source quiz application </h5>
   * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
   * [Technologies used](#technologies-used)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
+  * Author Aman Makwana
   * [License](#license)
 
 
@@ -65,36 +64,15 @@ This project was created using the following technologies.
  
 
 
- ##  Screenshots 
-
-![img-1](https://user-images.githubusercontent.com/111676859/235448791-4dc03043-834d-4cc6-986f-d73eb120b73e.png)
----- -
-![img-2](https://user-images.githubusercontent.com/111676859/235448776-8d6eeeae-0bc6-42c0-9886-01b337a1c060.png)
---- - 
-![img-3](https://user-images.githubusercontent.com/111676859/235448778-4da1fae9-5eeb-4436-9658-4366ac4f60cf.png)
---- - 
-![img-4](https://user-images.githubusercontent.com/111676859/235448781-6b7e71d7-aff0-4d8d-8dc4-3a17f0442c45.png)
---- - 
-![img-5](https://user-images.githubusercontent.com/111676859/235448786-99ad55ea-6d3b-42f7-b850-7a689af1f905.png)
---- - 
-![img-6](https://user-images.githubusercontent.com/111676859/235448787-74e9c56c-7bf4-403f-9b65-540648687548.png)
---- - 
-![img-7](https://user-images.githubusercontent.com/111676859/235448789-2e077d59-cf47-42b2-bdf1-db88ab2baa6a.png)
+ 
 
 
-
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 
-MIT License
+Medicaps License
 
-Copyright (c) 2022 Gilbert Hutapea
+Copyright (c) 2022 Aman Makwana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
