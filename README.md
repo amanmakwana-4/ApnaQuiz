@@ -1,4 +1,4 @@
-<H1 align ="center" > REACT QUIZ  </h1>
+<H1 align ="center" > Apna QUIZ  </h1>
 <h5  align ="center"> 
 Fullstack open source quiz application </h5>
 <br/>
